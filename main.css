@@ -1,0 +1,13 @@
+body {
+    background-color: #f0f8ff; /* light blue background */
+    color: #333333;            /* dark text */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #0077cc; /* nice blue */
+}
+
+p {
+    color: #555555; /* soft gray */
+}
